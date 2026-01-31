@@ -22,7 +22,7 @@ Feel free to explore my repositories to see the code behind these projects.
 
 ## Let's Connect!
 
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/danielaannpereira)
 - **Email:** danielapereira4091@gmail.com
 
 ---
