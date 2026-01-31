@@ -2,21 +2,13 @@
 
 ## About Me
 
-I am a versatile and driven Full Stack Developer with a strong academic background in Computer Applications. I specialize in building dynamic, user-focused web applications, using a variety of front-end and back-end technologies. I have hands-on experience with the MERN stack and ASP.NET, and I'm passionate about creating scalable, efficient, and impactful digital solutions from concept to deployment.
+Driven and versatile developer with a solid academic background in Computer Applications and a growing focus on Artificial Intelligence and Machine Learning. Experienced in building end-to-end applications using Python, the MERN stack, and ASP.NET, with practical exposure to machine learning, natural language processing, and computer vision through advanced coursework. Enjoys working with data, building models, integrating APIs, and turning complex ideas into scalable, real-world solutions. Known for strong problem-solving skills, academic consistency, and a proactive, collaborative approach to learning. Passionate about using AI and ML to create meaningful and impactful technology.
 
 **Key Skills & Technologies:**
-- **Programming Languages:** C, Java, Python, JavaScript
-- **Web Development:** HTML, CSS, UI/UX, MySQL, MongoDB
-- **Tech Stack:** MERN Stack, ASP.NET (C#)
-- **Tools:** VS Code, Visual Studio, Figma, GitHub, Google Collab
-- **Soft Skills:** Communication, Time Management, Problem-Solving, Teamwork, Leadership
-
-## What I Do
-
-- Develop **full-stack web applications** with proficiency in both **front-end** and **back-end** technologies.
-- Design **user-friendly and responsive UI/UX** to enhance user experience.
-- Implement **databases** like **MySQL** and **MongoDB**, along with integrating **APIs**.
-- Use modern development tools like **VS Code**, **Visual Studio**, and **Figma** for design and collaboration.
+- **Programming : Python, Machine Learning fundamentals (regression, classification, clustering), Natural Language Processing, Text Analytics, Data pre-processing, C, Java , MERN Stack, .
+- **Web Development : HTML, ASP.NET (C#), CSS, UI/UX, MySQL, MongoDB.
+- **Tools : VS Code, Visual Studio, Figma, GitHub, Google Collab.
+- **Soft Skills : Communication, Time Management, Problem-Solving, Teamwork, Leadership.
 
 ## Projects
 
