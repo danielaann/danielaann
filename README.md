@@ -13,8 +13,8 @@ Driven and versatile developer with a solid academic background in Computer Appl
 ## Projects
 
 Here are some of the projects I've worked on:
-
-- **[Mental Health Text Classification Using Machine Learning](https://github.com/danielaann/Text-Classifier-Mental-Health-Using-Machine-Learning.git)**:Implemented an NLP-based text classification system using TF-IDF features and supervised machine learning models to classify mental health text data.
+- **[Real-Time Credit Card Fraud Detection — AWS AI Ecosystem](https://github.com/danielaann/Fraud-Detection.git)**: Built and deployed an end-to-end fraud detection system on AWS under the guidance of Module Director Patrick Denny at the University of Limerick. Trained a Random Forest model on 284,807 real transactions, tackling severe class imbalance using RandomUnderSampler and StandardScaler, achieving 96% fraud precision. Deployed through a fully serverless AWS ecosystem including SageMaker, Lambda, API Gateway, S3, and Amplify with a live React frontend.
+- **[Mental Health Text Classification Using Machine Learning](https://github.com/danielaann/Text-Classifier-Mental-Health-Using-Machine-Learning.git)**: Implemented an NLP-based text classification system using TF-IDF features and supervised machine learning models to classify mental health text data.
 - **[Serenity Circle](https://github.com/danielaann/Serenity-Circle.git )**: A comprehensive mental health support platform with features such as mood tracking, journaling, therapy chat, and relaxation tools. Built using the **MERN stack**.
 - **[Green Pathways](https://github.com/danielaann/Green-pathway.git)**: A sustainable living website that calculates users' carbon footprint and provides tips for reducing environmental impact. Built with **MERN stack**.
 
